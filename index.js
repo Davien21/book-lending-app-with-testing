@@ -1,7 +1,7 @@
 /*
-* Implementation of the module design pattern to build a book lending app.
+* Implementation of a book lending app.
 * By Chidiebere Ekennia
-* Use the public methods to interact with the book store.
+* npm test to run tests
 */
 class BookLender {
   constructor() {
